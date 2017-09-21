@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "cross-env DEBUG=koa:application nodemon index"
+  },
+  "dependencies": {
+    "cross-env": "^5.0.5",
+    "debug": "^3.0.1",
+    "delegates": "^1.0.0",
+    "depd": "^1.1.1",
+    "is-generator-function": "^1.0.6",
+    "koa-convert": "^1.2.0",
+    "on-finished": "^2.3.0"
+  }
+}
